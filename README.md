@@ -61,10 +61,15 @@ Show Total Number of Students
 
 Sample Output:
 
+
 ----- Student Grade Report -----
+
 Name            Grade
+
 Akshuu           85
+
 Saurabh          92
+
 Rahul            78
 
 
