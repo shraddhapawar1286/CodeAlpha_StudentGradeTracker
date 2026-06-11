@@ -67,9 +67,13 @@ Akshuu           85
 Saurabh          92
 Rahul            78
 
+
 Average Score : 86.66666666666667
+
 Highest Score : 97
+
 Lowest Score  : 78
+
 Total Students: 3
 
 
